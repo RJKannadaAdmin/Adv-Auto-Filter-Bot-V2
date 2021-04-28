@@ -1637,9 +1637,9 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('Join Channel', url='https://t.me/joinchat/UXLH47j-ZtwOkpoP'),
+            InlineKeyboardButton('Join Our Channel ⭕️', url='https://t.me/joinchat/UXLH47j-ZtwOkpoP'),
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/Kannada_Request_Group')
+            InlineKeyboardButton('Join Support Group⭕️', url='https://t.me/Kannada_Request_Group')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
