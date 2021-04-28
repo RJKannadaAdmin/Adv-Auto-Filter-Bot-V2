@@ -89,13 +89,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Join Our Chanel ⭕️', url='https://t.me/joinchat/UXLH47j-ZtwOkpoP'),
-    ],[
-        InlineKeyboardButton('Join Support Group ⭕️', url='https://t.me/Kannada_Request_Group')
+        InlineKeyboardButton('Join Channel ⭕️', url='https://t.me/CrazyBotsz'),
+        InlineKeyboardButton('Join Group ⭕️', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
-    
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await bot.send_message(
