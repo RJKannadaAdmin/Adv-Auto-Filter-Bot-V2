@@ -89,9 +89,9 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Join Chanel ⭕️', url='https://t.me/joinchat/UXLH47j-ZtwOkpoP'),
+        InlineKeyboardButton('Join Our Chanel ⭕️', url='https://t.me/joinchat/UXLH47j-ZtwOkpoP'),
     ],[
-        InlineKeyboardButton('Support Group ⭕️', url='https://t.me/Kannada_Request_Group')
+        InlineKeyboardButton('Join Support Group ⭕️', url='https://t.me/Kannada_Request_Group')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
