@@ -42,7 +42,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@Kannada_Request_Group
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
@@ -50,8 +50,6 @@ For More Details Click Help Button Below..
 <b>➥ Creator</b> : Style King
 
 <b>➥ Language</b> : <code>Python3</code>
-
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
 <b>➥ Source Code</b> : Ask Style King 😤
 """
