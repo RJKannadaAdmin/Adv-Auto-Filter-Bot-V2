@@ -91,7 +91,7 @@ async def start(bot, update):
     buttons = [[
         InlineKeyboardButton('Join Chanel ⭕️', url='https://t.me/joinchat/UXLH47j-ZtwOkpoP'),
     ],[
-        InlineKeyboardButton('Support Group ⭕️', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Support Group ⭕️', url='https://t.me/Kannada_Request_Group')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
